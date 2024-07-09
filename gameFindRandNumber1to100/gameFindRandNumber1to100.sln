@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gameFindRandNumber1to100", "gameFindRandNumber1to100\gameFindRandNumber1to100.vcxproj", "{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Debug|x64.ActiveCfg = Debug|x64
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Debug|x64.Build.0 = Debug|x64
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Debug|x86.Build.0 = Debug|Win32
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Release|x64.ActiveCfg = Release|x64
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Release|x64.Build.0 = Release|x64
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Release|x86.ActiveCfg = Release|Win32
+		{9B0B258D-8CF0-42AB-B7B2-DCD0C54C1340}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA01331-D4A8-4A09-B789-32586EEDFA13}
+	EndGlobalSection
+EndGlobal
