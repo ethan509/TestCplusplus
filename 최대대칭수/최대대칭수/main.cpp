@@ -77,7 +77,7 @@ int solution(string str) {
 	}
 
 	//cout << "[before]answer= '" << answer << "'" << endl;
-	answer[idx] = max + 48;
+	answer[idx] = max + '0';	// '0' ascii code 48. + 1~9
 	//cout << " [after]answer= '" << answer << "'" << endl;
 
 	// 공백 제거
